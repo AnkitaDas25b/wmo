@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+   
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    background-size: cover;
+
+}
+.container{
+    background-color: white;
+    display: flex;
+    width: 16000px;
+    height:100vh;
+    border-radius:1em;
+    padding:2em;
+    gap:1em;
+}
+.row{
+    border: 10px solid violet;
+    border-radius: 1em;
+   
+}
+
+row-1{
+    flex:1;
+}
+row-2{
+    flex:2;
+}
+row-3{
+    flex:1;
+}
