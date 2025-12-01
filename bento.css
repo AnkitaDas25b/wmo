@@ -276,11 +276,11 @@
 
 @media screen and (max-width:550px){
     .container .p4{
-        top:330%;}
+        top:290%;}
     }
 @media screen and (max-width:500px){
     .container .p4{
-        top:290%;}
+        top:280%;}
     }
 @media screen and (max-width:430px){
     .container .p4{
@@ -296,7 +296,7 @@
 
 @media screen and (max-width:380px){
     .container .p4{
-        top:280%;}
+        top:275%;}
     }
 @media screen and (max-width:340px){
     .container .p4{
@@ -318,6 +318,7 @@
     .container .p4{
         top:235%;}
     }
+
 
 
 
