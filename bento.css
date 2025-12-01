@@ -261,7 +261,7 @@
     .container .p4{
         flex-direction: column;
         position: absolute;
-        top:295%;
+        top:310%;
         left:0%;
         width:100%;
         height:25%;
@@ -276,11 +276,11 @@
 
 @media screen and (max-width:550px){
     .container .p4{
-        top:280%;}
+        top:300%;}
     }
 @media screen and (max-width:500px){
     .container .p4{
-        top:270%;}
+        top:290%;}
     }
 
 @media screen and (max-width:630px){
@@ -289,11 +289,11 @@
 }
 @media screen and (max-width:430px){
     .container .p4{
-        top:260%;}
+        top:280%;}
     }
 @media screen and (max-width:380px){
     .container .p4{
-        top:265%;}
+        top:270%;}
     }
 @media screen and (max-width:340px){
     .container .p4{
@@ -301,20 +301,21 @@
     }
 @media screen and (max-width:330px){
     .container .p4{
-        top:255%;}
+        top:250%;}
     }
 @media screen and (max-width:290px){
     .container .p4{
-        top:245%;}
+        top:240%;}
     }
 @media screen and (max-width:240px){
     .container .p4{
-        top:240%;}
+        top:230%;}
     }
 @media screen and (max-width:230px){
     .container .p4{
-        top:235%;}
+        top:220%;}
     }
+
 
 
 
