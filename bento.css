@@ -226,7 +226,10 @@
     width:100%;
     height:100%;
 }
-
+@media screen and (max-width:650px){
+    .container .p4 p{
+        font-size:15px;}
+}
 @media screen and (max-width:450px){
     .container{
      flex-direction: column;
