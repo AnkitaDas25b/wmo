@@ -230,7 +230,7 @@
 @media screen and (max-width:450px){
     .container{
      flex-direction: column;
-     display: block;
+     display: block;}
      
     }
     .container .p1 .box1 img{
